@@ -1,1 +1,3 @@
 # SaazRestaraunt
+
+This project is designed to build a front-end site utilizing HTML and CSS in order to rebuild a restaurant...
